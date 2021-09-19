@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoGalery</string>
+
+    <string name="no_photos">Oops! No result found.</string>
+
+    <string name="communication_error">Error in getting data. Please try again later.</string>
+    <string name="most_popular_photos">Most Popular Photos</string>
+    <string name="error_data">Something went wrong! Please try again later.</string>
+
+</resources>
